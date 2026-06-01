@@ -1,0 +1,1 @@
+export { default as CursorImageTrail } from "./CursorImageTrail"
